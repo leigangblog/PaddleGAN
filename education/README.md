@@ -44,14 +44,23 @@ Day 5：[客观题+项目展示（照片、视频](./leigangblog/homework5.md)
 Day 6-大作业：[自选PaddleGAN里面的模型实现超分](./leigangblog/big_homework.md)
 
 所有作业：
+
 [预习题](./leigangblog/homework0.md)
+
 [GAN基础概念及应用介绍作业](./leigangblog/homework1.md)
+
 [DCGAN改LSGAN作业](./leigangblog/homework2.md)
+
 [Pixel2Pixel：人像卡通化作业](./leigangblog/homework3.md)
+
 [老视频修复作业](./leigangblog/homework4.md)
+
 [图像超分客观题作业](./leigangblog/homework5.md)
+
 [动作迁移作业](./leigangblog/homework6.md)
+
 [唇形合成作业](./leigangblog/homework7.md)
+
 [图像超分大作业](./leigangblog/big_homework.md)
 
 ## 😍GitHub提交作业指南😍
