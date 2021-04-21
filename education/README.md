@@ -39,7 +39,7 @@ Day 3：[代码题_填空补全基于pix2pix实现人脸卡通的预测代码](.
 
 Day 4：[客观题+项目展示（照片、视频）](./leigangblog/homework4.md) 
 
-Day 5：[客观题+项目展示（照片、视频](./leigangblog/homework5.md) 
+Day 5：[客观题+项目展示（照片、视频）](./leigangblog/homework5.md) 
 
 Day 6-大作业：[自选PaddleGAN里面的模型实现超分](./leigangblog/big_homework.md)
 
